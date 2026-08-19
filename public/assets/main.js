@@ -3,6 +3,11 @@
 
   const motionScript = document.createElement("script");
   motionScript.src = "assets/motion-section.js?v=e3186f4";
+  motionScript.addEventListener("load", () => {
+    const interactiveScript = document.createElement("script");
+    interactiveScript.src = "assets/interactive-section.js?v=bb10edb";
+    document.head.appendChild(interactiveScript);
+  });
   document.head.appendChild(motionScript);
 
   const header = document.querySelector("[data-header]");
