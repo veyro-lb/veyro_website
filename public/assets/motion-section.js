@@ -50,7 +50,7 @@
             <div class="laptop-camera"></div>
             <div class="laptop-screen">
               <div class="laptop-site-bar"><strong>VEYRO STUDIO</strong><span>Websites · 3D · Motion</span></div>
-              <div class="laptop-video-wrap"><video class="laptop-video" autoplay muted loop playsinline preload="metadata"><source src="https://raw.githubusercontent.com/veyro-lb/veyro_website/main/video_561911.mp4" type="video/mp4"></video></div>
+              <div class="laptop-video-wrap"><video class="laptop-video" autoplay muted loop playsinline preload="metadata"><source src="/assets/3d-showcase.mp4" type="video/mp4"></video></div>
               <div class="laptop-site-copy"><small>CREATIVE CAPABILITIES</small><strong>3D animation + modern web design</strong><p>We build engaging visual experiences that combine branded websites with motion and presentation.</p></div>
             </div>
           </div>
