@@ -2,7 +2,7 @@
   "use strict";
 
   const motionScript = document.createElement("script");
-  motionScript.src = "assets/motion-section.js";
+  motionScript.src = "assets/motion-section.js?v=e3186f4";
   document.head.appendChild(motionScript);
 
   const header = document.querySelector("[data-header]");
