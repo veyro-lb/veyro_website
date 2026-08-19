@@ -1,6 +1,10 @@
 (() => {
   "use strict";
 
+  const motionScript = document.createElement("script");
+  motionScript.src = "assets/motion-section.js";
+  document.head.appendChild(motionScript);
+
   const header = document.querySelector("[data-header]");
   const menuButton = document.querySelector("[data-menu-toggle]");
   const navigation = document.querySelector("[data-nav]");
